@@ -1,0 +1,23 @@
+C:\Users\admin\Desktop\NashTech\Asp.net Core\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\admin\Desktop\NashTech\Asp.net Core\bin\Debug\net5.0\appsettings.json
+C:\Users\admin\Desktop\NashTech\Asp.net Core\bin\Debug\net5.0\Asp.net Core.exe
+C:\Users\admin\Desktop\NashTech\Asp.net Core\bin\Debug\net5.0\Asp.net Core.deps.json
+C:\Users\admin\Desktop\NashTech\Asp.net Core\bin\Debug\net5.0\Asp.net Core.runtimeconfig.json
+C:\Users\admin\Desktop\NashTech\Asp.net Core\bin\Debug\net5.0\Asp.net Core.runtimeconfig.dev.json
+C:\Users\admin\Desktop\NashTech\Asp.net Core\bin\Debug\net5.0\Asp.net Core.dll
+C:\Users\admin\Desktop\NashTech\Asp.net Core\bin\Debug\net5.0\ref\Asp.net Core.dll
+C:\Users\admin\Desktop\NashTech\Asp.net Core\bin\Debug\net5.0\Asp.net Core.pdb
+C:\Users\admin\Desktop\NashTech\Asp.net Core\obj\Debug\net5.0\Asp.net Core.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\NashTech\Asp.net Core\obj\Debug\net5.0\Asp.net Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\NashTech\Asp.net Core\obj\Debug\net5.0\Asp.net Core.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\NashTech\Asp.net Core\obj\Debug\net5.0\Asp.net Core.AssemblyInfo.cs
+C:\Users\admin\Desktop\NashTech\Asp.net Core\obj\Debug\net5.0\Asp.net Core.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\NashTech\Asp.net Core\obj\Debug\net5.0\Asp.net Core.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\NashTech\Asp.net Core\obj\Debug\net5.0\staticwebassets\Asp.net Core.StaticWebAssets.Manifest.cache
+C:\Users\admin\Desktop\NashTech\Asp.net Core\obj\Debug\net5.0\staticwebassets\Asp.net Core.StaticWebAssets.xml
+C:\Users\admin\Desktop\NashTech\Asp.net Core\obj\Debug\net5.0\scopedcss\bundle\Asp.net Core.styles.css
+C:\Users\admin\Desktop\NashTech\Asp.net Core\obj\Debug\net5.0\Asp.net Core.RazorTargetAssemblyInfo.cache
+C:\Users\admin\Desktop\NashTech\Asp.net Core\obj\Debug\net5.0\Asp.net Core.dll
+C:\Users\admin\Desktop\NashTech\Asp.net Core\obj\Debug\net5.0\ref\Asp.net Core.dll
+C:\Users\admin\Desktop\NashTech\Asp.net Core\obj\Debug\net5.0\Asp.net Core.pdb
+C:\Users\admin\Desktop\NashTech\Asp.net Core\obj\Debug\net5.0\Asp.net Core.genruntimeconfig.cache
